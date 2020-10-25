@@ -26,7 +26,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwnstck&layout=compact&hide_border=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
