@@ -10,6 +10,10 @@
 - 🤹‍♂️ I love juggling
 
 <br />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img align="center" alt="bwnstck's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bwnstck&show_icons=true&hide_border=true&theme=synthwave" />
 
 <br />
