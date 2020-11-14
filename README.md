@@ -40,7 +40,7 @@
 
 ---
 
-<em>Made with: [Waka Readme Stats by anmol098](https://github.com/anmol098/waka-readme-stats)</em>
+<em>Made with: [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats) & [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)</em>
 
 [website]: https://bwnstck.github.io/bootstrap-portfolio/
 [linkedin]: https://linkedin.com/in/b.weinstock
