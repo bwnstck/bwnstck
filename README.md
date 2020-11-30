@@ -23,7 +23,7 @@ or go to my [CV-Page][website]
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -64,23 +64,24 @@ Sunday       53 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               23 hrs 26 mins      ███████████████████░░░░░░   76.71% 
-JSON                     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.24% 
-TypeScript               1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.13% 
-Other                    53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93% 
-Bash                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
+JavaScript               22 hrs 44 mins      ███████████████████░░░░░░   76.1% 
+JSON                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.78% 
+TypeScript               1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
+Other                    53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99% 
+Bash                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.39%
 
 🔥 Editors: 
-VS Code                  30 hrs 33 mins      █████████████████████████   100.0%
+VS Code                  29 hrs 53 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-DispoDisco               29 hrs 21 mins      ████████████████████████░   96.09% 
-Unknown Project          44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42% 
-shorty                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27% 
-bwnstck                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+DispoDisco               28 hrs 37 mins      ████████████████████████░   95.78% 
+Unknown Project          42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.39% 
+shorty                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
+nextblog                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
+bwnstck                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 💻 Operating System: 
-Mac                      30 hrs 33 mins      █████████████████████████   100.0%
+Mac                      29 hrs 53 mins      █████████████████████████   100.0%
 
 ```
 
