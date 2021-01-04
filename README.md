@@ -32,7 +32,7 @@ or go to my [CV-Page][website]
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 6 Contributions in the Year 2021
  > 
 > 📦 139.6 kB Used in Github's Storage 
  > 
