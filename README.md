@@ -32,7 +32,7 @@ or go to my [CV-Page][website]
 
 **🐱 My Github Data** 
 
-> 🏆 6 Contributions in the Year 2021
+> 🏆 10 Contributions in the Year 2021
  > 
 > 📦 139.6 kB Used in Github's Storage 
  > 
@@ -71,16 +71,16 @@ Sunday       52 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 49 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 49 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+vulvemory                1 hr 49 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 49 mins        █████████████████████████   100.0%
 
 ```
 
