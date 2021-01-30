@@ -27,11 +27,11 @@ or go to my [CV-Page][website]
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-317442%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-317560%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 136 Contributions in the Year 2021
+> 🏆 138 Contributions in the Year 2021
  > 
 > 📦 173.0 kB Used in Github's Storage 
  > 
@@ -70,36 +70,36 @@ Sunday       54 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               8 hrs 23 mins       ███████████░░░░░░░░░░░░░░   47.45% 
-JavaScript               7 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.87% 
-Bash                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.92% 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62% 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
+TypeScript               12 hrs 20 mins      █████████████░░░░░░░░░░░░   54.43% 
+JavaScript               7 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.76% 
+Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.16% 
+HTML                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
 
 🔥 Editors: 
-VS Code                  17 hrs 41 mins      █████████████████████████   100.0%
+VS Code                  22 hrs 41 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-lemurbaumpflege          9 hrs 56 mins       ██████████████░░░░░░░░░░░   56.25% 
-portfolio-react          5 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   33.17% 
-Unknown Project          1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
-Ackee                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57% 
-realdecide               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
+lemurbaumpflege          14 hrs 19 mins      ███████████████░░░░░░░░░░   63.16% 
+portfolio-react          5 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.86% 
+Unknown Project          1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.91% 
+GestaltZeit              29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18% 
+Ackee                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
 
 💻 Operating System: 
-Linux                    11 hrs 1 min        ███████████████░░░░░░░░░░   62.33% 
-Mac                      6 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.67%
+Linux                    15 hrs 24 mins      █████████████████░░░░░░░░   67.9% 
+Mac                      7 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.1%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               15 repos            ██████████████░░░░░░░░░░░   57.69% 
-HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   26.92% 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
+JavaScript               15 repos            ██████████████░░░░░░░░░░░   55.56% 
+HTML                     8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
 
 ```
 
