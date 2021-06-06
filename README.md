@@ -33,7 +33,7 @@ or go to my [CV-Page][website]
 
 > 🏆 162 Contributions in the Year 2021
  > 
-> 📦 189.2 kB Used in Github's Storage 
+> 📦 189.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
