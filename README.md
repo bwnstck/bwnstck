@@ -70,18 +70,16 @@ Sunday       75 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               4 hrs 25 mins       ████████████████████████░   95.81% 
-XML                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66% 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 37 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vlink-app                4 hrs 37 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 37 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -98,7 +96,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2021
+ Last Updated on 06/08/2021
 <!--END_SECTION:waka-->
 
 ---
