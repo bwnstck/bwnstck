@@ -31,7 +31,7 @@ or go to my [CV-Page][website]
 
 **🐱 My Github Data** 
 
-> 🏆 169 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 201.1 kB Used in Github's Storage 
  > 
@@ -70,16 +70,17 @@ Sunday       75 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 hrs 9 mins        ████████████████████████░   97.89% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 15 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+vlink-app                4 hrs 15 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 15 mins       █████████████████████████   100.0%
 
 ```
 
@@ -96,7 +97,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2021
+ Last Updated on 10/08/2021
 <!--END_SECTION:waka-->
 
 ---
