@@ -31,13 +31,13 @@ or go to my [CV-Page][website]
 
 **🐱 My GitHub Data** 
 
-> 🏆 204 Contributions in the Year 2021
+> 🏆 206 Contributions in the Year 2021
  > 
 > 📦 233.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 55 Public Repositories 
+> 📜 57 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
@@ -98,7 +98,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2021
+ Last Updated on 28/11/2021
 <!--END_SECTION:waka-->
 
 ---
