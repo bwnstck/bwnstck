@@ -2,7 +2,7 @@
 
 ## Hey, i'am Benjamin 👾 👋
 
-### I'm a frontend Developer at neueFische!!
+### I'm a frontend Developer at ambient.digital!!
 
 - ☀️ Wanna try out one of my last Apps: [ 🎯 realDecide](https://realdecide.vercel.app)
 - 🕹 or a game?: [♦️ GoBang ♦](https://playgobang.vercel.app)
