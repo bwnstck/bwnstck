@@ -33,7 +33,7 @@ or go to my [CV-Page][website]
 
 **🐱 My GitHub Data** 
 
-> 🏆 32 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 343.8 kB Used in GitHub's Storage 
  > 
@@ -72,20 +72,16 @@ Sunday       18 commits     █████████░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               4 hrs 37 mins       █████████████████████████   99.72% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 38 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vlink-app                4 hrs 33 mins       ████████████████████████░   97.96% 
-backend                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
-car_value_calculator     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 38 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -102,7 +98,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2022 18:45:12 UTC
+ Last Updated on 04/12/2022 18:44:05 UTC
 <!--END_SECTION:waka-->
 
 ---
