@@ -35,7 +35,7 @@ or go to my [CV-Page][website]
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 346.7 kB Used in GitHub's Storage 
+> 📦 346.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,7 +103,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2023 18:38:56 UTC
+ Last Updated on 20/02/2023 18:40:14 UTC
 <!--END_SECTION:waka-->
 
 ---
