@@ -70,19 +70,16 @@ Sunday                   6 commits           ███████████�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               1 hr 48 mins        ███████████████████████░░   91.93 % 
-GraphQL                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-lbs-website              1 hr 57 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 57 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,7 +95,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/03/2023 18:40:31 UTC
+ Last Updated on 10/03/2023 18:38:48 UTC
 <!--END_SECTION:waka-->
 
 ---
