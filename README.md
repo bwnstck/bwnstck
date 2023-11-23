@@ -41,6 +41,45 @@ or go to my [CV-Page][website]
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                934 commits         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+🌆 Daytime                1792 commits        ████████████░░░░░░░░░░░░░   48.13 % 
+🌃 Evening                883 commits         ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+🌙 Night                  114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Tuesday                  949 commits         ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Wednesday                541 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Thursday                 728 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Friday                   532 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Saturday                 242 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Sunday                   212 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -54,7 +93,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2023 18:38:03 UTC
+ Last Updated on 23/11/2023 18:38:32 UTC
 <!--END_SECTION:waka-->
 
 ---
