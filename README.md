@@ -70,17 +70,16 @@ Sunday                   212 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-XML                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-KITS                     5 mins              █████████████████░░░░░░░░   68.09 % 
-Unknown Project          2 mins              ████████░░░░░░░░░░░░░░░░░   31.91 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,7 +95,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2024 18:37:18 UTC
+ Last Updated on 17/02/2024 18:36:57 UTC
 <!--END_SECTION:waka-->
 
 ---
