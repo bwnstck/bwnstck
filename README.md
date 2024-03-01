@@ -33,7 +33,7 @@ or go to my [CV-Page][website]
 
 **🐱 My GitHub Data** 
 
-> 📦 346.6 kB Used in GitHub's Storage 
+> 📦 346.7 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -70,16 +70,16 @@ Sunday                   212 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,7 +95,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/02/2024 18:37:37 UTC
+ Last Updated on 01/03/2024 18:37:33 UTC
 <!--END_SECTION:waka-->
 
 ---
