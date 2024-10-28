@@ -35,6 +35,8 @@ or go to my [CV-Page][website]
 
 > 📦 346.8 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 63 Public Repositories 
@@ -68,20 +70,16 @@ Sunday                   212 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Docker                   17 mins             ████████░░░░░░░░░░░░░░░░░   31.32 % 
-PHP                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-SCSS                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Image (svg)              5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-engelsystem              54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +95,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2024 18:43:14 UTC
+ Last Updated on 28/10/2024 18:46:24 UTC
 <!--END_SECTION:waka-->
 
 ---
