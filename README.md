@@ -35,8 +35,6 @@ or go to my [CV-Page][website]
 
 > 📦 352.5 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 63 Public Repositories 
@@ -103,7 +101,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2024 18:47:28 UTC
+ Last Updated on 19/12/2024 18:44:52 UTC
 <!--END_SECTION:waka-->
 
 ---
