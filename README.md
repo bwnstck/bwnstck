@@ -35,8 +35,6 @@ or go to my [CV-Page][website]
 
 > 📦 352.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 63 Public Repositories 
@@ -70,21 +68,16 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JSON                     19 mins             ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-Bash                     18 mins             ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-TypeScript               15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-YAML                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-payload-website-template 1 hr 8 mins         ████████████████████████░   96.72 % 
-payload_cms              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,7 +93,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2025 18:46:12 UTC
+ Last Updated on 11/01/2025 18:42:46 UTC
 <!--END_SECTION:waka-->
 
 ---
