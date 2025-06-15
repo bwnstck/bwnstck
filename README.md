@@ -35,6 +35,8 @@ or go to my [CV-Page][website]
 
 > 📦 360.4 kB Used in GitHub's Storage 
  > 
+> 🏆 186 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 64 Public Repositories 
@@ -68,19 +70,16 @@ Sunday                   303 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               2 hrs 4 mins        ███████████████████████░░   91.33 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 40 mins        ███████████████████░░░░░░   74.05 % 
-VS Code                  35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-agrikulturfestival       2 hrs 16 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 16 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,7 +95,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2025 18:48:10 UTC
+ Last Updated on 15/06/2025 18:48:39 UTC
 <!--END_SECTION:waka-->
 
 ---
