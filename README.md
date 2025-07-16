@@ -33,9 +33,7 @@ or go to my [CV-Page][website]
 
 **🐱 My GitHub Data** 
 
-> 📦 360.5 kB Used in GitHub's Storage 
- > 
-> 🏆 188 Contributions in the Year 2025
+> 📦 360.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,7 +93,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2025 18:56:56 UTC
+ Last Updated on 16/07/2025 18:55:47 UTC
 <!--END_SECTION:waka-->
 
 ---
