@@ -33,7 +33,7 @@ or go to my [CV-Page][website]
 
 **🐱 My GitHub Data** 
 
-> 📦 370.0 kB Used in GitHub's Storage 
+> 📦 369.9 kB Used in GitHub's Storage 
  > 
 > 🏆 55 Contributions in the Year 2026
  > 
@@ -70,22 +70,22 @@ Sunday                   593 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C                        57 mins             ██████████████████░░░░░░░   73.03 % 
-INI                      17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Objective-C              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-C++                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+C                        57 mins             ███████████████████░░░░░░   75.81 % 
+INI                      14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Objective-C              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+C++                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         ██████████████████████░░░   86.87 % 
-Neovim                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+VS Code                  1 hr 5 mins         ██████████████████████░░░   86.37 % 
+Neovim                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 
 🐱‍💻 Projects: 
-Marlin-2.1.2.8           1 hr 17 mins        █████████████████████████   98.94 % 
-Marlin-2.1.2.8 2         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Marlin-2.1.2.8           1 hr 14 mins        █████████████████████████   98.90 % 
+Marlin-2.1.2.8 2         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Mac                      1 hr 18 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,7 +107,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 20:40:58 UTC
+ Last Updated on 07/09/2026 21:45:12 UTC
 <!--END_SECTION:waka-->
 
 ---
