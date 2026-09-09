@@ -43,54 +43,6 @@ or go to my [CV-Page][website]
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-🌆 Daytime                1320 commits        █████████░░░░░░░░░░░░░░░░   35.22 % 
-🌃 Evening                1613 commits        ███████████░░░░░░░░░░░░░░   43.04 % 
-🌙 Night                  373 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   635 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Tuesday                  636 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Wednesday                257 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Thursday                 376 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Friday                   954 commits         ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Saturday                 297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Sunday                   593 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-C                        4 mins              █████████████████████████   99.74 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-
-🔥 Editors: 
-Neovim                   3 mins              █████████████████████░░░░   82.19 % 
-VS Code                  0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-
-🐱‍💻 Projects: 
-Marlin-2.1.2.8           3 mins              █████████████████████░░░░   82.19 % 
-Marlin-2.1.2.8 2         0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-
-💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -104,7 +56,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 21:22:34 UTC
+ Last Updated on 09/09/2026 21:07:33 UTC
 <!--END_SECTION:waka-->
 
 ---
